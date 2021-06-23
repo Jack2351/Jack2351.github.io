@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "作业结果展示"
+title:  "第二次作业结果展示"
 date:   2021-05-30 14:12:39 +0800
 categories: jekyll update
 ---
@@ -18,14 +18,12 @@ blog列表
 ![blog列表]({{ site.url }}/downloads/blog列表页.png)  
 post1  
 ![post1]({{ site.url }}/downloads/post1.png)  
-post2  
-![post2]({{ site.url }}/downloads/post2.png)  
 staff列表  
 ![staff列表]({{ site.url }}/downloads/staff列表.png)  
 作者简介  
 ![作者简介]({{ site.url }}/downloads/作者简介.png)  
 about页面  
-![about页面]({{ site.url }}/downloads/about.png)
+![about页面]({{ site.url }}/downloads/About.png)
 ## 三、实验过程
 首先我先结合课堂上学到知识复习了提纲，之后借助Jekyll按步骤做出了默认的博客界面。然后一步步修改成具有个人特色和符合实验要求的网站。
 ## 四、总结

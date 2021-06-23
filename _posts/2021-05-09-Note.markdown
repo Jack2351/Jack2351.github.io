@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Note"
-date:   2021-05-09 15:08:39 +0800
-categories: jekyll update
----
-# 就随便写写，没什么

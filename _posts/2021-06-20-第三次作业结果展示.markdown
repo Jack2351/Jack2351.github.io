@@ -1,0 +1,48 @@
+---
+layout: post
+title:  "第三次作业结果展示"
+date:   2021-06-20 14:12:39 +0800
+categories: jekyll update
+---
+# WEB应用软件开发实训 - 第3次作业 - Git使用
+> learngit 项目网址：https://github.com/Jack2351/learngit/tree/master
+## 一、必做部分
+
+### 1、安装Git
+![安装git]({{ site.url }}/downloads/git安装.png)
+
+### 2、创建版本库
+![创建版本库]({{ site.url }}/downloads/创建版本库.png)
+
+### 3、版本控制
+![版本控制]({{ site.url }}/downloads/版本控制.png)
+
+### 4、版本回退
+![版本回退1]({{ site.url }}/downloads/版本回退1.png)
+
+![版本回退2]({{ site.url }}/downloads/版本回退2.png)
+
+### 5、工作区和暂存区
+![工作区和暂存区]({{ site.url }}/downloads/工作区和暂存区.png)
+
+### 6、管理修改
+![管理修改]({{ site.url }}/downloads/管理修改.png)
+
+### 7、撤销修改
+![撤销修改]({{ site.url }}/downloads/撤销修改.png)
+
+### 8、删除文件
+![删除文件]({{ site.url }}/downloads/删除文件.png)
+
+### 9、远程仓库
+![远程仓库]({{ site.url }}/downloads/远程仓库.png)
+
+### 10、添加到远程仓库
+![添加到远程仓库]({{ site.url }}/downloads/添加到远程仓库.png)
+
+## 三、实验过程
+我按照教程的步骤一步步地实践，了解Git的使用方法，并体会到了它的优势。期间，我为了解决问题，我也参考了课外的知识，扩展了知识面。
+
+## 四、总结
+在添加到远程库步骤时，不知为何本地和GitHub无法通过SSH连接，之后通过查阅资料，通过HTTP连接上，实现了本地文件添加到远程库。  
+这次实验我对Git的功能和使用有了更深的了解，并锻炼了我的动手能力，期间寻找资料，也增长了课外知识。
